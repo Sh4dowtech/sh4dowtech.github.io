@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 9
-date: 2023-02-13
+modal-id: 10
+date: 2023-02-12
 img: virus_cleaning.png
 alt: image-alt
 category: Ciber-Seguridad

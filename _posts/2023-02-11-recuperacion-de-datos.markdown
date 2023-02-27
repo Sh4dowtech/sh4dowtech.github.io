@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 10
-date: 2023-02-12
+modal-id: 11
+date: 2023-02-11
 img: file_recovery.png
 alt: image-alt
 category: Ciber-Seguridad
